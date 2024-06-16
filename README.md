@@ -1,7 +1,6 @@
 Name: Andrew Forster
 Date: 6/16/24
-Final Replit Program Share Link: Sophia Learning Python Touchstone - Replit
-Complete the following template. Fill out all entries using complete sentences.
+Final Replit Program Share Link: https://replit.com/@sup3r0001/Sophia-Learning-Python-Touchstone
 
  
 PART 1: Defining Your Problem
